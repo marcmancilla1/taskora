@@ -7,7 +7,7 @@
 Tableros tipo Trello, calendario, captura rápida y hasta **IA** para crear tareas desde una captura de pantalla.
 Todo corre en tu navegador: tus datos son **tuyos** y no salen de tu equipo.
 
-**[▶️ Ver la demo en vivo](TU-LINK-DE-NETLIFY)**
+**[▶️ Ver la demo en vivo](https://taskoraz.netlify.app/)**
 
 </div>
 
